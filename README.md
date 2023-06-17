@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
