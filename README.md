@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
