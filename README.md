@@ -1,1 +1,1 @@
-added badges (#45)
+Update neural-magic.md (#7347)
