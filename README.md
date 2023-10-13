@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
