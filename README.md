@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
