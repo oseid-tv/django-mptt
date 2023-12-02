@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
