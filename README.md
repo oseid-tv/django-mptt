@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+YOLOv8 INT8 TFLite Inference Example (#7317)
