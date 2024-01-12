@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+YAML reformat (#7669)
