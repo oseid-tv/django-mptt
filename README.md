@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
