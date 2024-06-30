@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add YOLOv8 LibTorch C++ inference example (#7090)
