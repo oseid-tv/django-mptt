@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
