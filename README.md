@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
